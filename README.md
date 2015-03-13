@@ -1,4 +1,3 @@
 # hello-world
 =====================
-edited
-first application
+edited first application
